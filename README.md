@@ -2,7 +2,7 @@
 ### 🎥 📺 [Watch the Official Demo Video on YouTube!](https://youtu.be/bPYgBfl567s?si=HbUrzP7yXUf36nUz)
 **Your AI Security Bodyguard.**
 
-ShadowGuard AI is a Chrome extension that detects sensitive data (passwords, API keys, SSNs, credit cards) the instant you type or paste it into any AI chat tool, and blocks it before it's sent — **entirely on-device, zero data ever leaves the browser for detection.**
+ShadowGuard AI is a Chrome extension that detects sensitive data (passwords, API keys, SSNs, credit cards) the instant you type or paste it into any AI chat tool, and blocks it before it's sent **entirely on-device, zero data ever leaves the browser for detection.**
 
 ## 🌟 Features
 
